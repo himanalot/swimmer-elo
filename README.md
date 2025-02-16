@@ -38,7 +38,7 @@ A web application for ranking swimmers through head-to-head comparisons using an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/swimmer-elo.git
+git clone https://github.com/himanalot/swimmer-elo.git
 cd swimmer-elo
 ```
 
